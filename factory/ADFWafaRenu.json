@@ -1,0 +1,9 @@
+{
+	"name": "ADFWafaRenu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb61541d-4a59-458f-98ba-2c64a6d7fb1b",
+		"tenantId": "f863ee02-78c9-48ce-8706-2b7d30b7c27f"
+	}
+}
