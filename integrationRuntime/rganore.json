@@ -1,0 +1,7 @@
+{
+	"name": "rganore",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "local machine"
+	}
+}
